@@ -1,0 +1,4 @@
+#Sat Sep 23 18:29:50 WAT 2023
+base.0=/Users/the-made/Documents/qrcode_generator_share-main/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
